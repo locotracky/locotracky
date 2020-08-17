@@ -1,7 +1,5 @@
 # Locotracky API
 
-<!--
-**locotracky/locotracky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to our repository. This repository is under construction. Soon will be share our api with the world. [Amazon Price Tracker](https://locotracky.com) [Amazon España](https://menudopaquete.com)
 
